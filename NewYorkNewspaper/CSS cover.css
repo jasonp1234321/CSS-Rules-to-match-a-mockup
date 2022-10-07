@@ -1,0 +1,24 @@
+body{
+    width: 350px;
+    height: 500px;
+    background-color: gray;
+  }
+h1{
+    font-size: 76px;
+    color: black;
+    text-align: center;
+}
+h2
+{
+    font-size: 15px;
+    color: cyan;
+    text-align: right;
+    transform: translate(-20%,-300%);
+    opacity: 0.5;
+}
+img
+{
+    width: 80%;
+    display: block;
+    margin: auto
+}
